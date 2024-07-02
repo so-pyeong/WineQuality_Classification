@@ -1,1 +1,10 @@
-# WineQuality_Classification
+## WineQuality_Classification
+세미콜론 동아리 프로젝트
+-----
+프로젝트 팀원
+-----
+김소평, 윤홍림 (인공지능소프트웨어과)
+
+<와인 품질 분류 시스템>
+-----
+
