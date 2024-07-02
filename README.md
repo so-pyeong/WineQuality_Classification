@@ -24,3 +24,4 @@
 
 ![와인품질분류코드](https://github.com/so-pyeong/WineQuality_Classification/blob/main/0702wine-5.PNG)
 ![와인품질분류학습](https://github.com/so-pyeong/WineQuality_Classification/blob/main/0702wine-3.PNG)
+![와인품질분류학습](https://github.com/so-pyeong/WineQuality_Classification/blob/main/0702wine-4.txt)
