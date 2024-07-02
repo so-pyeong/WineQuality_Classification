@@ -1,5 +1,5 @@
 # WineQuality_Classification
-(세미콜론 동아리 프로젝트)
+#(세미콜론 동아리 프로젝트)
 
 
 ✔프로젝트 소개
